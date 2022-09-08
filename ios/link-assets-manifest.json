@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Cartoon.ttf",
+      "sha1": "fbaaa65c82528e81a69b3ba73f7210e899600749"
+    },
+    {
+      "path": "src/assets/fonts/Snacker-Medium.ttf",
+      "sha1": "331141a1852336057f30291f89a3f153b16129be"
+    },
+    {
+      "path": "src/assets/fonts/Walto-Medium.ttf",
+      "sha1": "6c37c7c8cee360d546479c7476a26a8cd384d290"
+    }
+  ]
+}
